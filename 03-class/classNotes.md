@@ -4,7 +4,7 @@ for a snippet template we used
 
 > ctrl + alt + r
 
-# rafce
+### rafce
 
 creates an arrow function like this:
 
